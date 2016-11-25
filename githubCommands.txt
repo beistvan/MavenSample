@@ -1,0 +1,6 @@
+echo "# MavenSample" >> README.md
+git init
+git add README.md
+git commit -m "Sample Maven Project for Java"
+git remote add origin https://github.com/beistvan/MavenSample.git
+git push -u origin master
